@@ -14,9 +14,9 @@ There are several different military units in the game including melee units, ra
 
 ## Design Docs
 * Landing Screen
-![landing](./wireframes/landing.jpg)
+![landing](https://github.com/piggy168/finaldefense/blob/master/docs/wireframes/landing.jpg?raw=true)
 * Gameplay
-![gameplay](./wireframes/gameplay.jpg)
+![gameplay](https://github.com/piggy168/finaldefense/blob/master/docs/wireframes/gameplay.jpg?raw=true)
 
 
 ## Technology
