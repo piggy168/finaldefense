@@ -13,7 +13,7 @@ There are several different military units in the game including melee units, ra
 - [ ] Bonus: more difficulties
 
 ## Design Docs
-* [Landing Screen]
+* [Landing-Screen]
 ![landing]
 * [Gameplay]
 ![gameplay]
