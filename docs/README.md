@@ -18,8 +18,8 @@ There are several different military units in the game including melee units, ra
 * [Gameplay]
 ![gameplay]
 
-[landing]:./wireframes/landing.jpg
-[gameplay]: ./wireframes/gameplay.jpg
+[landing]: ./docs/wireframes/landing.jpg
+[gameplay]: ./docs/wireframes/gameplay.jpg
 
 ## Technology
 - [ ] JavaScript ES6
