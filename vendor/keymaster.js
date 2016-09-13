@@ -1,19 +1,4 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @piggy168
- Watch 23
-  Star 39
- Fork 180 appacademy/curriculum Private
- Code  Issues 0  Pull requests 2  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathcurriculum/javascript/projects/asteroids/es6_solution/vendor/keymaster.js
-6d7404d  on Aug 9
-@sewinter sewinter add es6 solution dir
-1 contributor
-RawBlameHistory     237 lines (204 sloc)  7.04 KB
+
 //     keymaster.js
 //     (c) 2011-2012 Thomas Fuchs
 //     keymaster.js may be freely distributed under the MIT license.
@@ -250,5 +235,3 @@ RawBlameHistory     237 lines (204 sloc)  7.04 KB
   if(typeof module !== 'undefined') module.exports = key;
 
 })(this);
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help

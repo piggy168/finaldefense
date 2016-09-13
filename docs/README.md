@@ -46,7 +46,7 @@ There are several different military units in the game including melee units, ra
 **Objective:** Functional gameplay and game balancing
 
 - [ ] Functional game
-- [ ] Enemy wave design
+- [ ] Enemy wave design - enemies spawns at a specific time mark and the cycle repeats
 - [ ] Game balancing
 
 ### Phase 4: Game Polish (1 day)
