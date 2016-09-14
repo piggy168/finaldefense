@@ -1,11 +1,37 @@
 .body{
-  margin: 100px;
+  /* margin: 100px; */
   width: 384px;
   height: 568px;
-  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1473706723/loading_screen01_cckoko.png);
   background-size: cover;
+
+}
+.game{
+  width: 384px;
+  text-align: center;
+  margin: auto;
+  position: relative;
+  height: 568px;
 }
 
-.game{
-  text-align: center;
+.start{
+  position: absolute;
+  width: 384px;
+  height: 568px;
+  top:0;
+  left:0;
+  background-size: cover;
+  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1473706723/loading_screen01_cckoko.png);
+}
+
+.bottom-ui{
+height: 60px;
+position: absolute;
+bottom: 0;
+left: 0;
+display: flex;
+}
+
+.ui{
+  width:60px;
+  display:none;
 }

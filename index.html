@@ -1,16 +1,23 @@
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script type="application/javascript" src="vendor/keymaster.js"></script>
+    <script type="application/javascript" src="lib/bundle.js"></script>
     <title>Final Defense</title>
   </head>
 
   <body>
     <div class="game">
       <canvas class="body"></canvas>
-
-      <script type="application/javascript" src="vendor/keymaster.js"></script>
-      <script type="application/javascript" src="lib/bundle.js"></script>
-
+      <button class="start" id="start">start</button>
+      <div class="bottom-ui">      
+        <button class="ui" id="addunit1">Add Unit1</button>
+        <button class="ui"id="addunit2">Add Unit2</button>
+        <button class="ui"id="addunit3">Add Unit3</button>
+        <button class="ui"id="addunit4">Add Unit4</button>
+      </div>
     </div>
+
   </body>
 </html>
