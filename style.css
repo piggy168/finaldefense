@@ -34,4 +34,6 @@ display: flex;
 .ui{
   width:60px;
   display:none;
+  background-image: url(./images/button.png);
+  background-size: cover;
 }
