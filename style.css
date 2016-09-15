@@ -37,3 +37,41 @@ display: flex;
   background-image: url(./images/button.png);
   background-size: cover;
 }
+
+#income{
+  background: none repeat scroll 0 0 transparent;
+  background-image: url(./images/income.png);
+  background-size: cover;
+  width:144px;
+  height: 60px;
+  color: white;
+  padding-top: 25;
+}
+
+.win{
+  display: none;
+  position: absolute;
+  width: 384px;
+  height: 568px;
+  top:0;
+  left:0;
+  background-size: cover;
+  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1473904110/StageClear01_rdg5ww.png);
+  font-size: 60;
+  text-shadow: 5px 5px 5px purple;
+  color: white;
+}
+
+.lose{
+  display: none;
+  position: absolute;
+  width: 384px;
+  height: 568px;
+  top:0;
+  left:0;
+  background-size: cover;
+  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1473904110/StageClear01_rdg5ww.png);
+  font-size: 60;
+  text-shadow: 5px 5px 5px purple;
+  color: white;
+}
