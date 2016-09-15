@@ -34,13 +34,26 @@ display: flex;
 .ui{
   width:60px;
   display:none;
-  background-image: url(./images/button.png);
+
   background-size: cover;
 }
+#addunit1{
+  background-image: url(http://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button1_fyugxe.png);
+}
+#addunit2{
+  background-image: url(http://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button2_o5wnix.png);
+}
+#addunit3{
+  background-image: url(http://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button3_bmyoyd.png);
+}
+#addunit4{
+  background-image: url(http://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button4_iltvbz.png);
+}
+
 
 #income{
   background: none repeat scroll 0 0 transparent;
-  background-image: url(./images/income.png);
+  background-image: url(http://res.cloudinary.com/hjsqizwtu/image/upload/v1473928898/income_othwcp.png);
   background-size: cover;
   width:144px;
   height: 60px;
