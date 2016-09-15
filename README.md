@@ -7,7 +7,7 @@ There are several different military units in the game including melee units, ra
 ## features
 
 - [ ] Landing page with clear instruction and game play rules
-- [ ] 4 types of units with different stats
+- [ ] 11 types of units with different stats
 - [ ] Game result screen
 - [ ] Mute button
 
