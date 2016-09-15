@@ -13,10 +13,13 @@ There are several different military units in the game including melee units, ra
 
 
 * Landing Screen
+
 ![landing](http://res.cloudinary.com/dlszpthqv/image/upload/c_scale,w_384/v1473931047/loading_screen01_cckoko_c3dsvd.png)
 * Gameplay
+
 ![gameplay](http://res.cloudinary.com/dlszpthqv/image/upload/v1473964153/Screen_Shot_2016-09-15_at_11.27.30_AM_ohkfjn.png)
 * Victory
+
 ![victory](http://res.cloudinary.com/dlszpthqv/image/upload/v1473964154/Screen_Shot_2016-09-15_at_11.28.32_AM_bzdtg6.png)
 
 
