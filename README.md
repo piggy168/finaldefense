@@ -11,7 +11,7 @@ There are several different military units in the game including melee units, ra
 - [ ] Game result screen
 - [ ] Mute button
 
-
+## Screenshots
 * Landing Screen
 
 ![landing](http://res.cloudinary.com/dlszpthqv/image/upload/c_scale,w_384/v1473931047/loading_screen01_cckoko_c3dsvd.png)
