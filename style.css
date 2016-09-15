@@ -88,3 +88,26 @@ display: flex;
   text-shadow: 5px 5px 5px purple;
   color: white;
 }
+.mute{
+  position: absolute;
+    top: 20px;
+    left: 20px;
+    background: none repeat scroll 0 0 transparent;
+    border: none;
+    height: 20px;
+    width: 22px;
+    background-size: cover;
+    background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1473959404/mute-unmute_somsop.png);
+  }
+
+.unmute{
+  display: none;
+  position: absolute;
+    top: 20px;
+    left: 20px;
+    background: none repeat scroll 0 0 transparent;
+    border: none;
+    height: 20px;
+    width: 22px;
+    background-size: cover;  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1473959408/mute-unmute_copy_ig00q6.png);
+}
