@@ -20,7 +20,7 @@
   top:0;
   left:0;
   background-size: cover;
-  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1473931047/loading_screen01_cckoko_c3dsvd.png);
+  background-image: url(https://res.cloudinary.com/dlszpthqv/image/upload/v1473931047/loading_screen01_cckoko_c3dsvd.png);
 }
 
 .bottom-ui{
@@ -38,22 +38,22 @@ display: flex;
   background-size: cover;
 }
 #addunit1{
-  background-image: url(http://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button1_fyugxe.png);
+  background-image: url(https://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button1_fyugxe.png);
 }
 #addunit2{
-  background-image: url(http://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button2_o5wnix.png);
+  background-image: url(https://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button2_o5wnix.png);
 }
 #addunit3{
-  background-image: url(http://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button3_bmyoyd.png);
+  background-image: url(https://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button3_bmyoyd.png);
 }
 #addunit4{
-  background-image: url(http://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button4_iltvbz.png);
+  background-image: url(https://res.cloudinary.com/hjsqizwtu/image/upload/v1473928912/button4_iltvbz.png);
 }
 
 
 #income{
   background: none repeat scroll 0 0 transparent;
-  background-image: url(http://res.cloudinary.com/hjsqizwtu/image/upload/v1473928898/income_othwcp.png);
+  background-image: url(https://res.cloudinary.com/hjsqizwtu/image/upload/v1473928898/income_othwcp.png);
   background-size: cover;
   width:144px;
   height: 60px;
@@ -69,7 +69,7 @@ display: flex;
   top:0;
   left:0;
   background-size: cover;
-  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1473904110/StageClear01_rdg5ww.png);
+  background-image: url(https://res.cloudinary.com/dlszpthqv/image/upload/v1473904110/StageClear01_rdg5ww.png);
   font-size: 60;
   text-shadow: 5px 5px 5px purple;
   color: white;
@@ -83,7 +83,7 @@ display: flex;
   top:0;
   left:0;
   background-size: cover;
-  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1473904110/StageClear01_rdg5ww.png);
+  background-image: url(https://res.cloudinary.com/dlszpthqv/image/upload/v1473904110/StageClear01_rdg5ww.png);
   font-size: 60;
   text-shadow: 5px 5px 5px purple;
   color: white;
@@ -97,7 +97,7 @@ display: flex;
     height: 20px;
     width: 22px;
     background-size: cover;
-    background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1473959404/mute-unmute_somsop.png);
+    background-image: url(https://res.cloudinary.com/dlszpthqv/image/upload/v1473959404/mute-unmute_somsop.png);
   }
 
 .unmute{
@@ -109,5 +109,5 @@ display: flex;
     border: none;
     height: 20px;
     width: 22px;
-    background-size: cover;  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1473959408/mute-unmute_copy_ig00q6.png);
+    background-size: cover;  background-image: url(https://res.cloudinary.com/dlszpthqv/image/upload/v1473959408/mute-unmute_copy_ig00q6.png);
 }
