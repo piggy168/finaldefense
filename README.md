@@ -1,6 +1,6 @@
 # Final Defense
 [Live site][fd]
-[fd]: https://github.com/piggy168/finaldefense/settings
+[fd]: https://piggy168.github.io/finaldefense/
 Final Defense is a real-time strategy game where players can collect resources to produce army and defeat enemy with the army produced.
 There are several different military units in the game including melee units, ranged units, tanks and towers.
 
