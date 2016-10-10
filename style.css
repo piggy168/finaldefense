@@ -1,22 +1,23 @@
 .body{
   /* margin: 100px; */
   width: 384px;
-  height: 568px;
+  height: 683px;
   background-size: cover;
 
 }
 .game{
   width: 384px;
   text-align: center;
-  margin: auto;
+  margin: 100px auto;
   position: relative;
-  height: 568px;
+  height: 683px;
+  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1476130465/iphone-6s-rose-gold-612x600_sm8rep.png);
 }
 
 .start{
   position: absolute;
   width: 384px;
-  height: 568px;
+  height: 683px;
   top:0;
   left:0;
   background-size: cover;
@@ -65,7 +66,7 @@ display: flex;
   display: none;
   position: absolute;
   width: 384px;
-  height: 568px;
+  height: 683px;
   top:0;
   left:0;
   background-size: cover;
@@ -79,7 +80,7 @@ display: flex;
   display: none;
   position: absolute;
   width: 384px;
-  height: 568px;
+  height: 683px;
   top:0;
   left:0;
   background-size: cover;
