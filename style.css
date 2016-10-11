@@ -1,34 +1,34 @@
 .body{
-  /* margin: 100px; */
+  margin: 170px;
   width: 384px;
   height: 683px;
   background-size: cover;
 
 }
 .game{
-  width: 384px;
+  width: 1400px;
   text-align: center;
   margin: 100px auto;
   position: relative;
-  height: 683px;
-  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1476130465/iphone-6s-rose-gold-612x600_sm8rep.png);
+  height: 1024px;
+  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1476214302/JzfvVHJ_bbed9h.png);
 }
 
 .start{
   position: absolute;
   width: 384px;
   height: 683px;
-  top:0;
-  left:0;
+  top:170px;
+  left:507px;
   background-size: cover;
-  background-image: url(https://res.cloudinary.com/dlszpthqv/image/upload/v1473931047/loading_screen01_cckoko_c3dsvd.png);
+  background-image: url(http://res.cloudinary.com/dlszpthqv/image/upload/v1476214986/loading_screen01_rpscrr.png);
 }
 
 .bottom-ui{
 height: 60px;
 position: absolute;
-bottom: 0;
-left: 0;
+bottom: 172px;
+left: 508px;
 display: flex;
 }
 
@@ -67,8 +67,8 @@ display: flex;
   position: absolute;
   width: 384px;
   height: 683px;
-  top:0;
-  left:0;
+  top:170px;
+  left:507px;
   background-size: cover;
   background-image: url(https://res.cloudinary.com/dlszpthqv/image/upload/v1473904110/StageClear01_rdg5ww.png);
   font-size: 60;
@@ -81,8 +81,8 @@ display: flex;
   position: absolute;
   width: 384px;
   height: 683px;
-  top:0;
-  left:0;
+  top:170px;
+  left:507px;
   background-size: cover;
   background-image: url(https://res.cloudinary.com/dlszpthqv/image/upload/v1473904110/StageClear01_rdg5ww.png);
   font-size: 60;
@@ -91,8 +91,8 @@ display: flex;
 }
 .mute{
   position: absolute;
-    top: 20px;
-    left: 20px;
+    top: 190px;
+    left: 527px;
     background: none repeat scroll 0 0 transparent;
     border: none;
     height: 20px;
@@ -104,8 +104,8 @@ display: flex;
 .unmute{
   display: none;
   position: absolute;
-    top: 20px;
-    left: 20px;
+    top: 190px;
+    left: 527px;
     background: none repeat scroll 0 0 transparent;
     border: none;
     height: 20px;
